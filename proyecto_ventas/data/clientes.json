@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "apellido": "Perez",
+    "email": "ana@x.com",
+    "telefono": "0945612310",
+    "ciudad": "Duran"
+  },
+  {
+    "id": 2,
+    "nombre": "Maria",
+    "apellido": "Ortiz",
+    "email": "maria@x.com",
+    "telefono": "0116154651",
+    "ciudad": "Duran"
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos",
+    "apellido": "Torres",
+    "email": "carlos@x.com",
+    "telefono": "0905315486",
+    "ciudad": "Guayaquil"
+  }
+]
